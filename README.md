@@ -6,9 +6,9 @@ This Python program works as a **Password Complexity Checker**.
 **Steps**
 1. The user is prompted to input their password to be checked.
 2. Their password is checked based on the following criteria:
-  a. Length must be 8 or more characters
-  b. Must include uppercase letters (A-Z)
-  c. Must include lowercase letters (a-z)
-  d. Must include a number (0-9)
-  e. Must include a special character
-3. The user is then provided feedback about the strength of their password and recommendations if needed.
+*a. Length must be _8 or more_ characters
+*b. Must include _uppercase_ letters (A-Z)
+*c. Must include _lowercase_ letters (a-z)
+*d. Must include a _number_ (0-9)
+*e. Must include a _special character_
+3. The user is then provided feedback about the _strength_ of their password and _recommendations_ if needed.
